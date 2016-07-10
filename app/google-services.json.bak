@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "18438937858",
+    "firebase_url": "https://akinventory-d0eba.firebaseio.com",
+    "project_id": "akinventory-d0eba",
+    "storage_bucket": "akinventory-d0eba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18438937858:android:6f4d8f07076268d0",
+        "android_client_info": {
+          "package_name": "com.webfactional.andrewk.akinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18438937858-mi11igo2c9i7b4a3vi6vjvrbvigf98jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDPFB_9KjyFYJxVkJ50s3du5uGdOUANxc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
